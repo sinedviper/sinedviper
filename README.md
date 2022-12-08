@@ -38,4 +38,4 @@
 ### :chart_with_upwards_trend: Stats
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sinedviper&theme=dark&hide_border=true&border_radius=4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedviper&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinedviper&layout=compact&theme=dark&hide_border=true)
