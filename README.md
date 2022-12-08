@@ -31,7 +31,7 @@
 <p><strong>Frontend</strong></p>
 <p>React, Next, Redux, ReduxToolkit, GraphQL, Axios, ApolloClient, React-Router-Dom, Webpack, Jest</p>
 <p><strong>Backend</strong></p>
-<p>Nest, Node, ApolloServer, Express,TypeGraphQl, GraphQL, TypeORM, MongoDB, MySQL</p>
+<p>Nest, Node, ApolloServer, Express,TypeGraphQL, GraphQL, TypeORM, MongoDB, MySQL</p>
 </div>
 
 ---
