@@ -11,10 +11,10 @@
 <a href="https://www.t.me/sinedviper"> 
 <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/> 
 </a>
- </div>
- <div  align="center">
- <img src="https://komarev.com/ghpvc/?username=sinedviper&style=flat-square&color=orange" alt="views"/>
- </div>
+</div>
+<div  align="center">
+<img src="https://komarev.com/ghpvc/?username=sinedviper&style=flat-square&color=orange" alt="views"/>
+</div>
  
 # :raised_hand: Hi! My name is Denis and I am a front-end developer.
 
@@ -39,4 +39,7 @@
 ### :chart_with_upwards_trend: Stats
 <div align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedviper&layout=compact&theme=dark&hide_border=true" />
-<img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=sinedviper&theme=dark&hide_border=true&border_radius=4" /></div>
+<img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=sinedviper&theme=dark&hide_border=true&border_radius=4" />
+<img width="500px" src="[https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/sinedviper]" />
+</div>
+
