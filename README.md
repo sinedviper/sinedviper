@@ -60,6 +60,18 @@
 </div>
 
 ---
+
+### :computer: Projects
+<div align="center">
+<a href="https://www.codewars.com/users/sinedviper"> 
+<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-client" />
+</a>
+<a href="https://www.codewars.com/users/sinedviper"> 
+<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-server" />
+</a>
+</div>
+
+---
 ### :chart_with_upwards_trend: Stats
 <div align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedviper&layout=compact&theme=dark&hide_border=true" />
@@ -68,4 +80,3 @@
 <img width="500px" src="https://www.codewars.com/users/sinedviper/badges/large" />
 </a>
 </div>
-
