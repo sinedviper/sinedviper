@@ -74,7 +74,6 @@
 ---
 ### :chart_with_upwards_trend: Stats
 <div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinedviper&layout=compact&theme=dark&hide_border=true" />
 <img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=sinedviper&theme=dark&hide_border=true&border_radius=4" />
 <a href="https://www.codewars.com/users/sinedviper"> 
 <img width="500px" src="https://www.codewars.com/users/sinedviper/badges/large" />
