@@ -69,7 +69,6 @@
 <a href="https://github.com/sinedviper/dove-server"> 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-server" />
 </a>
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-server)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ---
