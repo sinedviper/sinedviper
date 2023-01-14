@@ -63,10 +63,12 @@
 
 ### :computer: Projects
 <div align="center">
+ 
 #### Dove-Client
 <a href="https://github.com/sinedviper/dove-client"> 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-client&theme=dark" />
 </a>
+ 
 #### Dove-Server
 <a href="https://github.com/sinedviper/dove-server"> 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-server" />
