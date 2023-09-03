@@ -78,6 +78,7 @@
 <a href="https://github.com/sinedviper/codenames-client"> 
 <img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=codenames-client&theme=dark" />
 </a>
+
 </div>
 
 ---
