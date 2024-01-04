@@ -16,9 +16,7 @@
 # :raised_hand: Hi! My name is Denis and I am a front-end developer.
 
 ### About me
-<p align="justify">I am from Ukraine, I have been developing websites for 1.5 years, every day I improve my knowledge in this area, at first I did the front-end part, then I also switched to developing the back-end part. You can get acquainted with my work above, I also pinned my two main projects on bottom, I would recommend watching them first.</p>
-<p align="justify">Also at the moment I am in a team and developing a front-end part for a game project.</p>
-<p align="justify" >At the moment, I aspire to become a developer in the front-end direction, as I have extensive experience in the development of this direction.</p>
+<p align="justify">2 years of experience in a full stack development. Starting with some small projects, I’ve reached a great goal and contributed my knowledge into bigger deal like MOOW. I can create different elements for websites such as voice messages, video calls, chats. Despite this working with websockets and optimization of projects is not something new for me. I also have an experience in back-end development. I made servers based on Apollo, Express and Nest. Being highly motivated, I won’t stop at this point, and I’ll keep improving my skills in this domain.</p>
 
 ---
 
