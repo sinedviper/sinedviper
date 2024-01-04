@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=sinedviper&style=flat-square&color=orange" alt="views"/>
 </div>
  
-# :raised_hand: Hi! My name is Denis and I am a front-end developer.
+# :raised_hand: Hi! My name is Denis and I'm a Full-stack Developer.
 
 ### About me
 <p align="justify">2 years of experience in a full stack development. Starting with some small projects, I’ve reached a great goal and contributed my knowledge into bigger deal like MOOW. I can create different elements for websites such as voice messages, video calls, chats. Despite this working with websockets and optimization of projects is not something new for me. I also have an experience in back-end development. I made servers based on Apollo, Express and Nest. Being highly motivated, I won’t stop at this point, and I’ll keep improving my skills in this domain.</p>
