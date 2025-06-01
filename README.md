@@ -16,7 +16,19 @@
 # :raised_hand: Hi! My name is Denis and I'm a Full-stack Developer.
 
 ### About me
-<p align="justify">2 years of experience in a full stack development. Starting with some small projects, I’ve reached a great goal and contributed my knowledge into bigger deal like MOOW. I can create different elements for websites such as voice messages, video calls, chats. Despite this working with websockets and optimization of projects is not something new for me. I also have an experience in back-end development. I made servers based on Apollo, Express and Nest. Being highly motivated, I won’t stop at this point, and I’ll keep improving my skills in this domain.</p>
+<p align="justify">I am a Fullstack developer with more than 3 years of experience. During my university years, I started to study different languages: C#, C++, Java, JS, TS. 
+
+I have been a trainee at Bulgaria BulBank on Fullstack developer. In general, working with Rest Api and bug fixing.
+
+After some time I started working as a Front-end Developer React at Digital Invest Advisor. My tasks were to structure the project, develop the most important aspects of the site, and also optimize and secure the site. During this time I have worked with WebSocket, WebRTC, WebAudio, Firebase Auth, Rest Api and various file operations.
+
+At this moment, I’m working in Incant on projects like Mentme, Globasity, Gymate (Next.js, React Native), and Incant. Worked on the basis of Next.js (Vercel) with various LLM models (OpenAI, AnthropicAI, GeminiAI, Bolt, Cursor) and used different database systems such as Suspend, Drizzle Kit, Neon.db, and Pinecone for vector search.
+With LLM models, I implemented:
+- Generation of files such as PDF, DOCX;
+- Creation of chats and communication (with instructions for communication);
+- Analysis and output of data on images;
+- Search for information on the internet.
+I am also involved in solving and integrating new functions, optimizing project elements, and mentoring other developers.</p>
 
 ---
 
