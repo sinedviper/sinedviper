@@ -28,7 +28,9 @@ With LLM models, I implemented:
 - Creation of chats and communication (with instructions for communication);
 - Analysis and output of data on images;
 - Search for information on the internet.
-I am also involved in solving and integrating new functions, optimizing project elements, and mentoring other developers.</p>
+
+I am also involved in solving and integrating new functions, optimizing project elements, and mentoring other developers.
+</p>
 
 ---
 
