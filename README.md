@@ -58,33 +58,6 @@
 </div>
 
 ---
-
-### :computer: Projects
-<div align="center">
- 
-#### Dove-Client
-<a href="https://github.com/sinedviper/dove-client"> 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-client&theme=dark" />
-</a>
- 
-#### Dove-Server
-<a href="https://github.com/sinedviper/dove-server"> 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=dove-server&theme=dark" />
-</a>
-
-#### Codenames-Client
-<a href="https://github.com/sinedviper/codenames-client"> 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=codenames-client&theme=dark" />
-</a>
-
-#### Codenames-Server
-<a href="https://github.com/sinedviper/codenames-server"> 
-<img width="500px" src="https://github-readme-stats.vercel.app/api/pin/?username=sinedviper&repo=codenames-server&theme=dark" />
-</a>
-
-</div>
-
----
 ### :chart_with_upwards_trend: Stats
 <div align="center">
 <img width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=sinedviper&theme=dark&hide_border=true&border_radius=4" />
