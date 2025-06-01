@@ -1,5 +1,5 @@
 <div id="header" align="center">  
-<img src="https://media0.giphy.com/media/fsoCk5kgOcYMM/giphy.gif?cid=ecf05e47y38n06hvrnh496plj2n0uyfz01oo9fo07lsc2hu1&rid=giphy.gif&ct=g" width="900"/> 
+<img src="[https://media0.giphy.com/media/fsoCk5kgOcYMM/giphy.gif?cid=ecf05e47y38n06hvrnh496plj2n0uyfz01oo9fo07lsc2hu1&rid=giphy.gif&ct=g](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdtNjRwZWJqMTYzbmhmNWxqc3VoaTZtMWsxejh0Y3c1MzVxMnpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FqdGGgugkC4Xm/giphy.gif)" width="900"/> 
 </div>
 <div id="badges" align="center">  
 <a href="https://www.linkedin.com/in/sinedviper"> 
